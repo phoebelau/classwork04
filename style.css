@@ -1,0 +1,42 @@
+*
+{
+    
+    margin:0;
+
+}
+
+
+.box1{
+
+width:200px;
+height:200px;
+background-color: #eaf6f6;
+border: 10px solid #66bfbf;
+padding: 20px;
+color: #f76b8a;
+
+}
+
+
+.box2{
+
+width:200px;
+height:200px;
+background-color: #7f78d2;
+border: 20px solid #481380;
+padding: 20px;
+margin-left: 260px;
+
+}
+
+
+.box3{
+
+width:200px;
+height:200px;
+background-color: #FEFF03;
+border: 10px solid #000000;
+padding: 20px;
+margin-left: 540px;
+
+}
